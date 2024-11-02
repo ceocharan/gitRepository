@@ -8,4 +8,5 @@ class Main{
         System.out.println("M1");
     }
     void m2(){}
+    void m3(){}
 }

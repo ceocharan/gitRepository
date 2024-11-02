@@ -8,4 +8,5 @@ public class Gt {
         System.out.println("m4");
     }
     void m5(){}
+    void m6(){}
 }
