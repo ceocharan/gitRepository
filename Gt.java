@@ -4,7 +4,5 @@ public class Gt {
         System.out.println("25");
     }
     void m4(){}
-    void m3(){
-        System.out.println("m4");
-    }
+
 }
