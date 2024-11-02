@@ -3,4 +3,5 @@ public class Gt {
         System.out.println("m2");
         System.out.println("25");
     }
+    void m4(){}
 }
