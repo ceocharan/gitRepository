@@ -5,9 +5,6 @@ class Main{
     }
 
     void m1(){
-
-    }
-    void m1(){
         System.out.println("M1");
     }
 }
